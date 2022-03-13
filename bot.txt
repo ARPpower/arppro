@@ -1,0 +1,5 @@
+{
+	"ip":"auntycrist.aternos.me",
+	"port": "39479",
+	"name": "Ghochu"
+}
